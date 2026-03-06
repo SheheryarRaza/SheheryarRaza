@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Sheheryar 👋<br><br>I'm a .NET Developer focusing on backend architecture, system design, and building scalable applications. I enjoy leveraging AI tools to optimize coding workflows and solve complex technical challenges.<br><br>🏢 Currently working as a .NET Developer at Embrace Technologies.<br>🚀 Building LifeOS, a personal productivity web application.<br>💻 Experience includes: Multi-tenant architectures, Azure cloud services, and complex API integrations (Shopify, Etsy).<br>🌱 Currently exploring: Advanced system design and AI integration. <br>⚡ Fun fact: When I'm not writing code, I'm either working on charcoal portrait sketches
+Hi there, I'm Sheheryar 👋<br><br>I'm a .NET Developer focusing on backend architecture, system design, and building scalable applications. I enjoy leveraging AI tools to optimize coding workflows and solve complex technical challenges.<br><br>🏢 Currently working as a .NET Developer at Embrace Technologies.<br>🚀 <br>💻 Experience includes: Multi-tenant architectures, Azure cloud services, and complex API integrations (Shopify, Etsy).<br>🌱 Currently exploring: Advanced system design and AI integration. <br>⚡ Fun fact: When I'm not writing code, I'm either working on charcoal portrait sketches
 
 
 ## 🌐 Socials:
