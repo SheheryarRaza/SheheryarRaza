@@ -6,7 +6,6 @@ I'm a full-stack engineer in Islamabad, working in .NET, Azure and React/Next.js
 - I usually own the whole thing: the schema, the API, the screens and the deploy.
 - Outside work I build and self-host apps I use every day:
   - [Expense Ledger](https://ledger.razalabs.cloud/): I type, say or photograph what I spent, and an agent books it.
-  - [UniTracker](https://tracker.razalabs.cloud/): students track university applications, with programme deadlines pulled from DAAD every night.
   - [plaintalk](https://plaintalk.razalabs.cloud/): German listening practice that turns the words I miss into Anki cards.
 
 Most of my work lives in private repositories.
