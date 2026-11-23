@@ -12,4 +12,4 @@ Most of my work lives in private repositories.
 
 **Stack:** C# · ASP.NET Core · EF Core · PostgreSQL · SQL Server · React · Next.js · TypeScript · Azure · Docker
 
-**Find me:** [Portfolio](https://razalabs.cloud) · [LinkedIn](https://linkedin.com/in/muhammad-sheheryar-raza)
+**Find me:** [LinkedIn](https://linkedin.com/in/muhammad-sheheryar-raza)
